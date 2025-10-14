@@ -1,5 +1,8 @@
 # 💫 About Me:
-🔭	I'm currently working on	Developing a full-stack web application for my new IT consulting company, focusing on clean architecture and robust security features.<br>🫂	I'm looking to collaborate on	Open-source projects related to web security (e.g., OWASP Top 10 mitigations), DevOps automation, or high-performance React/Node.js applications.<br>💛	I'm looking for help with	Advanced cloud infrastructure (AWS/Azure) setup and deployment strategies for high-availability services.<br>🌱	I'm currently learning	Cybersecurity principles (focusing on ethical hacking and network security) and deepening my expertise in secure NoSQL database design.<br><br>⚡	Fun fact	I speak three languages guess which ones
+🔭	Setting up a self-hosted home server using Ubuntu Server and Docker to manage services like a private file server, continuous integration tools, and my company's dev environments.<br>
+🫂	I'm looking to collaborate on	Open-source projects related to web security (e.g., OWASP Top 10 mitigations), DevOps automation, or high-performance React/Node.js applications.<br>
+💛	Advanced network security configurations for self-hosted environments (e.g., setting up a VPN gateway or fine-tuning firewall rules).<br>
+🌱	I'm currently learning	Cybersecurity principles (focusing on ethical hacking and network security) and deepening my expertise in secure NoSQL database design.<br><br>⚡	Fun fact	I speak three languages guess which ones
 
 
 ## 🌐 Socials:
