@@ -2,7 +2,7 @@
 
 # 👋 Hello, I'm Mateo Josipović
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Software+Developer;DevOps+%26+Security+Enthusiast;Self-Hosting+Hobbyist;Problem+Solver" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Software+Developer;Web+%26+Mobile+Computing+Student;DevOps+%26+Security+Enthusiast" alt="Typing SVG" />
 
 <br>
 
@@ -20,13 +20,11 @@
 
 I'm a software developer with a passion for building secure, scalable applications and robust infrastructure. My focus is on backend development, DevOps automation, and network security.
 
-* **🔭 What I'm Building:** I'm currently setting up a self-hosted home server using **Ubuntu Server** and **Docker** to manage services like a private file server, CI/CD tools, and my company's dev environments.
-
-* **🌱 My Learning Path:** I am deepening my expertise in **Cybersecurity**, focusing on ethical hacking and secure NoSQL database design. I'm also exploring advanced network security configurations like setting up **VPN gateways** and fine-tuning firewall rules.
-
+* **🎓 Education:** I am currently a **Web and Mobile Computing major at RIT Croatia**.
+* **🔭 What I'm Building:** I'm setting up a self-hosted home server using **Ubuntu Server** and **Docker** to manage services like a private file server, CI/CD tools, and my company's dev environments.
+* **🌱 My Learning Path:** I am deepening my expertise in **Cybersecurity**, focusing on ethical hacking and secure NoSQL database design, including advanced network security configurations.
 * **🤝 Collaboration Interests:** I am eager to collaborate on open-source projects related to **web security** (OWASP Top 10), **DevOps automation**, or high-performance **React/Node.js** applications.
-
-* **⚡ Fun Fact:** I speak three languages!
+* **⚡ Fun Fact:** I speak three languages! ---
 
 ## 🛠️ My Tech Stack
 
@@ -50,7 +48,8 @@ I'm a software developer with a passion for building secure, scalable applicatio
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
