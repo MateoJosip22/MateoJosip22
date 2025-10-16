@@ -22,7 +22,7 @@ I'm a software developer with a passion for building secure, scalable applicatio
 * **🔭 What I'm Building:** I'm setting up a self-hosted home server using **Ubuntu Server** and **Docker** to manage services like a private file server, CI/CD tools, and my company's dev environments.
 * **🌱 My Learning Path:** I am deepening my expertise in **Cybersecurity**, focusing on ethical hacking and secure NoSQL database design, including advanced network security configurations.
 * **🤝 Collaboration Interests:** I am eager to collaborate on open-source projects related to **web security** (OWASP Top 10), **DevOps automation**, or high-performance **React/Node.js** applications.
-* **⚡ Fun Fact:** I speak three languages! ---
+* **⚡ Fun Fact:** I speak three languages that are not coding languages
 
 ## 🛠️ My Tech Stack
 
