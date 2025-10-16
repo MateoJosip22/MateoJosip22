@@ -26,7 +26,7 @@ I'm a software developer with a passion for building secure, scalable applicatio
 
 * **🤝 Collaboration Interests:** I am eager to collaborate on open-source projects related to **web security** (OWASP Top 10), **DevOps automation**, or high-performance **React/Node.js** applications.
 
-* **⚡ Fun Fact:** I speak three languages! ---
+* **⚡ Fun Fact:** I speak three languages!
 
 ## 🛠️ My Tech Stack
 
