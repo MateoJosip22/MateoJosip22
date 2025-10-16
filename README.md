@@ -1,18 +1,78 @@
-# 💫 About Me:
-🔭	Setting up a self-hosted home server using Ubuntu Server and Docker to manage services like a private file server, continuous integration tools, and my company's dev environments.<br>
-🫂	I'm looking to collaborate on	Open-source projects related to web security (e.g., OWASP Top 10 mitigations), DevOps automation, or high-performance React/Node.js applications.<br>
-💛	Advanced network security configurations for self-hosted environments (e.g., setting up a VPN gateway or fine-tuning firewall rules).<br>
-🌱	I'm currently learning	Cybersecurity principles (focusing on ethical hacking and network security) and deepening my expertise in secure NoSQL database design.<br><br>⚡	Fun fact	I speak three languages guess which ones
+<div align="center">
 
+# 👋 Hello, I'm Mateo Josipović
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mateo-josipovic-235607342/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Mateo.Josipovic@proton.me) 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Software+Developer;DevOps+%26+Security+Enthusiast;Self-Hosting+Hobbyist;Problem+Solver" alt="Typing SVG" />
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=plastic&logo=rust&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MateoJosip22&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MateoJosip22&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MateoJosip22&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mateo-josipovic-235607342/)
+[![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Mateo.Josipovic@proton.me)
+<img src="https://komarev.com/ghpvc/?username=MateoJosip22&style=for-the-badge&color=blue" alt="Profile Views" />
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+I'm a software developer with a passion for building secure, scalable applications and robust infrastructure. My focus is on backend development, DevOps automation, and network security.
+
+* **🔭 What I'm Building:** I'm currently setting up a self-hosted home server using **Ubuntu Server** and **Docker** to manage services like a private file server, CI/CD tools, and my company's dev environments.
+
+* **🌱 My Learning Path:** I am deepening my expertise in **Cybersecurity**, focusing on ethical hacking and secure NoSQL database design. I'm also exploring advanced network security configurations like setting up **VPN gateways** and fine-tuning firewall rules.
+
+* **🤝 Collaboration Interests:** I am eager to collaborate on open-source projects related to **web security** (OWASP Top 10), **DevOps automation**, or high-performance **React/Node.js** applications.
+
+* **⚡ Fun Fact:** I speak three languages! ---
+
+## 🛠️ My Tech Stack
+
+### Languages & Databases
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### DevOps & Tools
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 🌟 Featured Projects
+> **Important:** To enable this, go to your GitHub profile, click "Customize your pins," and select the repositories you want to feature. Then, update the `&repo=` names below.
+
+<div align="center">
+  <a href="https://github.com/MateoJosip22/YOUR-REPO-NAME-1">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MateoJosip22&repo=YOUR-REPO-NAME-1&theme=blue_navy" />
+  </a>
+  <a href="https://github.com/MateoJosip22/YOUR-REPO-NAME-2">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MateoJosip22&repo=YOUR-REPO-NAME-2&theme=blue_navy" />
+  </a>
+</div>
+
+---
+
+## 📊 My GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MateoJosip22&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateoJosip22&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="170" />
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=MateoJosip22&theme=blue_navy&hide_border=false" alt="GitHub Streak" />
+</div>
