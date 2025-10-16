@@ -51,25 +51,12 @@ I'm a software developer with a passion for building secure, scalable applicatio
 
 ---
 
-## 🌟 Featured Projects
-> **Important:** To enable this, go to your GitHub profile, click "Customize your pins," and select the repositories you want to feature. Then, update the `&repo=` names below.
-
-<div align="center">
-  <a href="https://github.com/MateoJosip22/YOUR-REPO-NAME-1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MateoJosip22&repo=YOUR-REPO-NAME-1&theme=blue_navy" />
-  </a>
-  <a href="https://github.com/MateoJosip22/YOUR-REPO-NAME-2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MateoJosip22&repo=YOUR-REPO-NAME-2&theme=blue_navy" />
-  </a>
-</div>
-
----
-
 ## 📊 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MateoJosip22&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateoJosip22&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MateoJosip22&theme=blue_navy&hide_border=false&show_icons=true" alt="GitHub Stats" height="170" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateoJosip22&theme=blue_navy&hide_border=false&layout=compact" alt="Top Languages" height="170" />
   <br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=MateoJosip22&theme=blue_navy&hide_border=false" alt="GitHub Streak" />
 </div>
