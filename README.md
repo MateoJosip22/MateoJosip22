@@ -16,8 +16,6 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
 I'm a software developer with a passion for building secure, scalable applications and robust infrastructure. My focus is on backend development, DevOps automation, and network security.
 
 * **🎓 Education:** I am currently a **Web and Mobile Computing major at RIT Croatia**.
